@@ -1,2 +1,1 @@
-# ddos-machine-tekil
-#Linux
+Coder : Seyit Mehmet Kiren
