@@ -1,1 +1,2 @@
-Coder : Seyit Mehmet Kiren
+Coder : Dextr1an
+Düzenleme : Seyit Mehmet Kiren
